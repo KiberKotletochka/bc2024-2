@@ -1,2 +1,3 @@
 http://backend.course#kiberKotletochka
 http://backend.course?name=%22%D0%91%D0%B0%D1%83%D1%82%D1%96%D0%BD%20%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%22&github_name=KiberKotletochka&group=%22%D0%A4%D0%95%D0%86-25%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
+https://bank.gov.ua/NBU_Exchange/exchange_site?start=20240127&end=20240127&valcode=JPY&sort=exchangedate&order=desc&json
